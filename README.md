@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Dev at SNS Square
+🔭 I’m currently working as Software Engineer(Full Stack Developer) at SNS Square
 
 
 ## 🌐 Socials:
